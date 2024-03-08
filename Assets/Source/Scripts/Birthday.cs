@@ -14,6 +14,21 @@ public class Birthday : MonoBehaviour
 
     [SerializeField] private Flowchart _flowchart;
 
+    private const string Aquarius = "Водолей";
+    private const string Pisces = "Рыбы";
+    private const string Aries = "Овен";
+    private const string Taurus = "Телец";
+    private const string Gemini = "Близнецы";
+    private const string Cancer = "Рак";
+    private const string Leo = "Лев";
+    private const string Virgo = "Дева";
+    private const string Libra = "Весы";
+    private const string Scorpio = "Скорпион";
+    private const string Sagittarius = "Стрелец";
+    private const string Capricorn = "Козерог";
+
+    private List<string> _zodiacs = new List<string>();
+
     private int _rawDate;
     private string _day;
     private string _month;
@@ -99,10 +114,26 @@ public class Birthday : MonoBehaviour
 
         _flowchart.SetIntegerVariable("Day", currentDay);
         _flowchart.SetIntegerVariable("Month", currentMonth);
-
-        Debug.Log(currentDay);
-        Debug.Log(currentMonth);
+        _flowchart.SetStringVariable("MonthS", FillZodiacName()[numberImage]);
 
         return numberImage;
+    }
+
+    private List<string> FillZodiacName()
+    {
+        _zodiacs.Add(Aquarius);
+        _zodiacs.Add(Pisces);
+        _zodiacs.Add(Aries);
+        _zodiacs.Add(Taurus);
+        _zodiacs.Add(Gemini);
+        _zodiacs.Add(Cancer);
+        _zodiacs.Add(Leo);
+        _zodiacs.Add(Virgo);
+        _zodiacs.Add(Libra);
+        _zodiacs.Add(Scorpio);
+        _zodiacs.Add(Sagittarius);
+        _zodiacs.Add(Capricorn);
+
+        return _zodiacs;
     }
 }

@@ -121,11 +121,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1441
-        width: 320
-        height: 453
+        y: 1444
+        width: 316
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -141,12 +141,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_1
       rect:
         serializedVersion: 2
-        x: 340
-        y: 1441
-        width: 321
-        height: 453
+        x: 341
+        y: 1444
+        width: 318
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -162,12 +162,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_2
       rect:
         serializedVersion: 2
-        x: 681
-        y: 1437
-        width: 327
-        height: 457
+        x: 684
+        y: 1444
+        width: 319
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -183,12 +183,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_3
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 1437
-        width: 326
-        height: 457
+        x: 1026
+        y: 1444
+        width: 318
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -204,12 +204,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_4
       rect:
         serializedVersion: 2
-        x: 1367
-        y: 1437
-        width: 324
-        height: 457
+        x: 1369
+        y: 1444
+        width: 319
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -225,12 +225,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_5
       rect:
         serializedVersion: 2
-        x: 1710
-        y: 1437
-        width: 326
-        height: 457
+        x: 1713
+        y: 1444
+        width: 318
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -246,12 +246,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_6
       rect:
         serializedVersion: 2
-        x: 2054
-        y: 1437
-        width: 323
-        height: 457
+        x: 2056
+        y: 1444
+        width: 318
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -267,12 +267,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_7
       rect:
         serializedVersion: 2
-        x: 2395
-        y: 1437
-        width: 325
-        height: 457
+        x: 2398
+        y: 1444
+        width: 318
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -288,12 +288,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_8
       rect:
         serializedVersion: 2
-        x: 2727
-        y: 1436
-        width: 340
-        height: 458
+        x: 2741
+        y: 1441
+        width: 318
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -309,12 +309,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_9
       rect:
         serializedVersion: 2
-        x: 3081
-        y: 1436
-        width: 328
-        height: 458
+        x: 3084
+        y: 1438
+        width: 319
+        height: 453
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -330,12 +330,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_10
       rect:
         serializedVersion: 2
-        x: 3424
-        y: 1436
-        width: 326
-        height: 458
+        x: 3428
+        y: 1439
+        width: 320
+        height: 452
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -351,12 +351,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_11
       rect:
         serializedVersion: 2
-        x: 3765
-        y: 1436
-        width: 326
-        height: 458
+        x: 3768
+        y: 1439
+        width: 320
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -372,12 +372,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_12
       rect:
         serializedVersion: 2
-        x: 4111
-        y: 1436
-        width: 323
-        height: 457
+        x: 4113
+        y: 1439
+        width: 317
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -394,11 +394,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 962
-        width: 320
-        height: 457
+        y: 964
+        width: 316
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -414,12 +414,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_15
       rect:
         serializedVersion: 2
-        x: 340
+        x: 343
         y: 962
-        width: 323
-        height: 454
+        width: 317
+        height: 452
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -435,12 +435,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_16
       rect:
         serializedVersion: 2
-        x: 682
-        y: 962
-        width: 326
-        height: 460
+        x: 684
+        y: 963
+        width: 319
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -456,12 +456,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_17
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 962
-        width: 326
-        height: 460
+        x: 1028
+        y: 963
+        width: 318
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -477,12 +477,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_18
       rect:
         serializedVersion: 2
-        x: 1363
-        y: 962
-        width: 328
-        height: 460
+        x: 1370
+        y: 964
+        width: 318
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -498,12 +498,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_19
       rect:
         serializedVersion: 2
-        x: 1710
-        y: 962
-        width: 326
-        height: 460
+        x: 1713
+        y: 963
+        width: 318
+        height: 452
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -519,12 +519,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_20
       rect:
         serializedVersion: 2
-        x: 2054
-        y: 962
-        width: 332
-        height: 460
+        x: 2056
+        y: 963
+        width: 317
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -540,12 +540,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_21
       rect:
         serializedVersion: 2
-        x: 2394
-        y: 962
-        width: 326
-        height: 460
+        x: 2399
+        y: 963
+        width: 318
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -561,12 +561,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_22
       rect:
         serializedVersion: 2
-        x: 2727
-        y: 959
-        width: 337
-        height: 455
+        x: 2741
+        y: 960
+        width: 319
+        height: 453
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -582,12 +582,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_23
       rect:
         serializedVersion: 2
-        x: 3082
-        y: 957
-        width: 661
-        height: 466
+        x: 3419
+        y: 962
+        width: 322
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -603,12 +603,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_24
       rect:
         serializedVersion: 2
-        x: 3765
-        y: 954
-        width: 326
-        height: 460
+        x: 3769
+        y: 958
+        width: 317
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -624,12 +624,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_25
       rect:
         serializedVersion: 2
-        x: 4111
-        y: 954
-        width: 324
-        height: 458
+        x: 4112
+        y: 959
+        width: 319
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -645,12 +645,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_26
       rect:
         serializedVersion: 2
-        x: 4446
-        y: 947
-        width: 341
-        height: 462
+        x: 4457
+        y: 956
+        width: 317
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -667,11 +667,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 477
-        width: 320
-        height: 458
+        y: 481
+        width: 317
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -687,12 +687,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_28
       rect:
         serializedVersion: 2
-        x: 340
-        y: 475
-        width: 323
-        height: 460
+        x: 343
+        y: 480
+        width: 317
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -708,12 +708,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_29
       rect:
         serializedVersion: 2
-        x: 682
-        y: 474
-        width: 324
-        height: 461
+        x: 684
+        y: 481
+        width: 319
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -729,12 +729,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_30
       rect:
         serializedVersion: 2
-        x: 1023
-        y: 474
-        width: 326
-        height: 461
+        x: 1027
+        y: 481
+        width: 319
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -750,12 +750,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_31
       rect:
         serializedVersion: 2
-        x: 1367
-        y: 474
-        width: 324
-        height: 461
+        x: 1369
+        y: 480
+        width: 320
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -771,12 +771,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_32
       rect:
         serializedVersion: 2
-        x: 1710
-        y: 474
-        width: 326
-        height: 461
+        x: 1714
+        y: 480
+        width: 317
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -792,12 +792,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_33
       rect:
         serializedVersion: 2
-        x: 2054
-        y: 474
-        width: 332
-        height: 461
+        x: 2056
+        y: 480
+        width: 318
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -813,12 +813,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_34
       rect:
         serializedVersion: 2
-        x: 2395
-        y: 474
-        width: 325
-        height: 461
+        x: 2399
+        y: 480
+        width: 319
+        height: 452
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -834,12 +834,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_35
       rect:
         serializedVersion: 2
-        x: 2740
-        y: 474
-        width: 324
-        height: 461
+        x: 2742
+        y: 481
+        width: 318
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -855,12 +855,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_36
       rect:
         serializedVersion: 2
-        x: 3081
-        y: 478
-        width: 326
-        height: 457
+        x: 3083
+        y: 481
+        width: 320
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -876,12 +876,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_37
       rect:
         serializedVersion: 2
-        x: 3424
-        y: 478
-        width: 326
-        height: 457
+        x: 3428
+        y: 480
+        width: 320
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -897,12 +897,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_38
       rect:
         serializedVersion: 2
-        x: 3765
-        y: 478
-        width: 326
-        height: 457
+        x: 3768
+        y: 481
+        width: 319
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -918,12 +918,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_39
       rect:
         serializedVersion: 2
-        x: 4111
-        y: 478
-        width: 323
-        height: 457
+        x: 4114
+        y: 480
+        width: 318
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -944,7 +944,7 @@ TextureImporter:
         width: 341
         height: 462
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -962,10 +962,10 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 320
-        height: 453
+        width: 317
+        height: 452
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -981,12 +981,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_42
       rect:
         serializedVersion: 2
-        x: 336
+        x: 341
         y: 0
-        width: 325
-        height: 453
+        width: 319
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1002,12 +1002,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_43
       rect:
         serializedVersion: 2
-        x: 683
+        x: 686
         y: 0
-        width: 325
-        height: 453
+        width: 318
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1023,12 +1023,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_44
       rect:
         serializedVersion: 2
-        x: 1026
+        x: 1030
         y: 0
-        width: 325
-        height: 453
+        width: 317
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1044,12 +1044,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_45
       rect:
         serializedVersion: 2
-        x: 1363
+        x: 1371
         y: 0
-        width: 332
-        height: 453
+        width: 319
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1065,12 +1065,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_46
       rect:
         serializedVersion: 2
-        x: 1704
+        x: 1715
         y: 0
-        width: 341
-        height: 460
+        width: 320
+        height: 452
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1088,10 +1088,10 @@ TextureImporter:
         serializedVersion: 2
         x: 2054
         y: 0
-        width: 323
-        height: 453
+        width: 320
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1107,12 +1107,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_48
       rect:
         serializedVersion: 2
-        x: 2386
+        x: 2401
         y: 0
-        width: 334
-        height: 453
+        width: 319
+        height: 451
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1128,12 +1128,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_49
       rect:
         serializedVersion: 2
-        x: 2740
+        x: 2743
         y: 0
-        width: 328
-        height: 453
+        width: 318
+        height: 452
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1149,12 +1149,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_50
       rect:
         serializedVersion: 2
-        x: 3081
+        x: 3084
         y: 0
-        width: 328
-        height: 456
+        width: 319
+        height: 454
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1170,12 +1170,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_51
       rect:
         serializedVersion: 2
-        x: 3422
+        x: 3425
         y: 0
-        width: 327
-        height: 459
+        width: 320
+        height: 454
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1191,12 +1191,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_52
       rect:
         serializedVersion: 2
-        x: 3765
+        x: 3769
         y: 0
-        width: 326
-        height: 459
+        width: 320
+        height: 453
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1212,12 +1212,12 @@ TextureImporter:
       name: Karty-dlya-Fotoshopa-variant-5_53
       rect:
         serializedVersion: 2
-        x: 4111
-        y: 0
-        width: 324
-        height: 453
+        x: 4112
+        y: 1
+        width: 319
+        height: 450
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1238,7 +1238,7 @@ TextureImporter:
         width: 9
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1259,7 +1259,7 @@ TextureImporter:
         width: 12
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1267,6 +1267,27 @@ TextureImporter:
       bones: []
       spriteID: 7b396d2194344164798a56d12278f06b
       internalID: -1940648693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karty-dlya-Fotoshopa-variant-5_13
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 960
+        width: 320
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193dcf7ae283fb04da02bf7e48ab7c9a
+      internalID: 627760374
       vertices: []
       indices: 
       edges: []
@@ -1282,7 +1303,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Karty-dlya-Fotoshopa-variant-5_57: -1940648693
+      Karty-dlya-Fotoshopa-variant-5_56: 986274040
       Karty-dlya-Fotoshopa-variant-5_47: 195868355
       Karty-dlya-Fotoshopa-variant-5_10: -1054354108
       Karty-dlya-Fotoshopa-variant-5_20: -903376023
@@ -1336,10 +1357,10 @@ TextureImporter:
       Karty-dlya-Fotoshopa-variant-5_49: 1268072780
       Karty-dlya-Fotoshopa-variant-5_33: -572770266
       Karty-dlya-Fotoshopa-variant-5_11: 1026904550
-      Karty-dlya-Fotoshopa-variant-5_3: 1776938585
       Karty-dlya-Fotoshopa-variant-5_36: 2047987231
+      Karty-dlya-Fotoshopa-variant-5_57: -1940648693
       Karty-dlya-Fotoshopa-variant-5_45: 1156085849
-      Karty-dlya-Fotoshopa-variant-5_56: 986274040
+      Karty-dlya-Fotoshopa-variant-5_3: 1776938585
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
