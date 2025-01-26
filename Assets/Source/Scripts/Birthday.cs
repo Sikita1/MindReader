@@ -7,7 +7,8 @@ using Fungus;
 
 public class Birthday : MonoBehaviour
 {
-    [SerializeField] private TMP_InputField _inputField;
+    //[SerializeField] private TMP_InputField _inputField;
+    [SerializeField] private InputField _inputField;
     [SerializeField] private List<Sprite> _imagesZodiacs = new List<Sprite>();
 
     [SerializeField] private Image _zodiac;
